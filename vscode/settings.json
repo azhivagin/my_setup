@@ -1,0 +1,28 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "JetBrains Mono",
+    "files.associations": {
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "array": "cpp",
+        "any": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stacktrace": "cpp",
+        "regex": "cpp",
+        "compare": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "valarray": "cpp",
+        "algorithm": "cpp",
+        "format": "cpp",
+        "random": "cpp",
+        "unordered_set": "cpp",
+        "iosfwd": "cpp",
+        "chrono": "cpp",
+        "cstdlib": "cpp"
+    }
+}
